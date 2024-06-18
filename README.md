@@ -13,8 +13,8 @@
 
 
 ## Контакты
-[<img src="./svg/telegram.svg">](https://t.me/vshoco)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:ivanedokov@yandex.ru)
+[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>](https://t.me/vshoco)
+[<img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white">](mailto:ivanedokov@yandex.ru)
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Ivan-Edokov&hide=contribs&show_icons=true&theme=dark">
